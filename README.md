@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @npesaras
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Web Development and Python 

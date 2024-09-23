@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=npesaras&label=Profile%20views&color=brightgreenstyle=flat)
+![Profile views](https://komarev.com/ghpvc/?username=npesaras&label=Profile%20views&color=0e75b6&style=flat)
 ![👋 Hi, my name is Nilmar Pesaras](npesarasheader.png)
 
 <div id="toc">

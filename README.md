@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=npesaras&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=npesaras&label=Profile%20views&color=brightgreenstyle=flat)
 
 <div id="toc">
   <ul align="center" style="list-style: none">

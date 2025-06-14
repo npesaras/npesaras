@@ -17,9 +17,6 @@
 
 I'm constantly seeking out innovative ways to make learning more engaging and impactful through the use of cutting-edge tech tools. Whether it's organizing tech workshops, leading coding clubs, or mentoring fellow students, I'm dedicated to fostering a culture of curiosity and creativity in the realm of technology.</h4>**
 
-**<h3 align="left">Rapid Fire</h3>**
-
-- 🌱 I'm currently learning: **📚 Front-End Web Development and Python**
 
  **<h3 align="left">Skills</h3>**
 
